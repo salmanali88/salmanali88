@@ -1,4 +1,5 @@
-![](https://komarev.com/ghpvc/?username=salmanali88&color=blue)
+![](https://komarev.com/ghpvc/?username=salmanali88&color=blue)<br>
+
 <h3My code Stack</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
