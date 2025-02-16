@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=salmanali88&color=blue)
 <h3My code Stack</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -22,4 +23,4 @@
   <img alt="Black" src="https://img.shields.io/badge/-Black-000000?style=flat-square&logo=black&logoColor=white" />
   <img alt="Pre-commit" src="https://img.shields.io/badge/-Pre--commit-FAB040?style=flat-square&logo=pre-commit&logoColor=white" />
 </p>
-![](https://komarev.com/ghpvc/?username=salmanali88&color=blue)
+
