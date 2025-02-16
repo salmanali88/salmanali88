@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=salmanali88&color=blue)<br>
 
-<h2>My code Stack</h2>
+<h2>👨‍💻🚀💻🛠️🧑‍🔧📊🤖 My Coding Stack</h2>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Hugging Face" src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
