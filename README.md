@@ -6,7 +6,21 @@ I'm currently focusing on developing framework for Time Series Prediction throug
 ![](https://komarev.com/ghpvc/?username=salmanali88&color=blue)<br>
 
 <h3>🔗 Let's Connect 🌐</h3>
-<a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
+[
+
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+](mailto:salmanali0313@hotmail.com)
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://www.linkedin.com/in/salman-ali-570354166)
+[
+
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+](https://huggingface.co/salmanali83)
 
 
 <h3> My Coding Stack 👨‍💻🚀💻🛠️📊🤖</h3>
