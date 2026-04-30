@@ -6,19 +6,11 @@ I'm currently focusing on developing framework for Time Series Prediction throug
 ![](https://komarev.com/ghpvc/?username=salmanali88&color=blue)<br>
 
 <h3>🔗 Let's Connect 🌐</h3>
-[
-
-![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-](mailto:salmanali0313@hotmail.com) [
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/salman-ali-570354166) [
-
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-](https://huggingface.co/salmanali83)
+<p>
+  <a href="mailto:salmanali0313@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/salman-ali-570354166"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://huggingface.co/salmanali83"><img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
+</p>
 
 
 <h3> My Coding Stack 👨‍💻🚀💻🛠️📊🤖</h3>
