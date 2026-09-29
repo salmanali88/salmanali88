@@ -1,16 +1,13 @@
 <h1>Hi there 👋</h1>
 <p>I'm Salman, a Ph.D. student at Nanjing University of Aeronautics and Astronautics
 I'm currently focusing on developing framework for Time Series Prediction through Knowledge Distillation with Domain Adaptation Across All Domain.</p>
-![Profile Views](https://komarev.com/ghpvc/?username=salmanali88&color=blue))<br>
-
+![Profile Views](https://komarev.com/ghpvc/?username=salmanali88&color=blue&style=flat)
 <h3>🔗 Let's Connect 🌐</h3>
 <p>
   <a href="mailto:salmanali0313@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/salman-ali-570354166"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://huggingface.co/salmanali83"><img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
 </p>
-
-
 <h3> My Coding Stack 👨‍💻🚀💻🛠️📊🤖</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
