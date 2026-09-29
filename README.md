@@ -1,7 +1,7 @@
 <h1>Hi there 👋</h1>
 <p>I'm Salman, a Ph.D. student at Nanjing University of Aeronautics and Astronautics
 I'm currently focusing on developing framework for Time Series Prediction through Knowledge Distillation with Domain Adaptation Across All Domain.</p>
-![](https://komarev.com/ghpvc/?username=salmanali88&color=blue)<br>
+![Profile Views](https://komarev.com/ghpvc/?username=salmanali88&color=blue))<br>
 
 <h3>🔗 Let's Connect 🌐</h3>
 <p>
